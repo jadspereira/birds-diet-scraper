@@ -2,8 +2,9 @@
 
 Python tool to extract bird diet data from [Birds of the World](https://birdsoftheworld.org).
 
-## FeaturesCollects species IDs from Cornell Lab's database (hardcoded limit in `sp_list_cornell.py`)
+## Features
 
+- Collects species IDs from Cornell Lab's database (hardcoded limit in `sp_list_cornell.py`)
 - Scrapes diet information for hardcoded keywords: `ant`, `ants`, `hymenoptera`
 - Exports structured CSV data
 - Simulates human browsing patterns to avoid blocks
