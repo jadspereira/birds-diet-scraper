@@ -47,7 +47,6 @@ src/
   sp_list_cornell.py    # Collects species IDs (hardcoded limit)
   login_search.py       # Checks diet pages (hardcoded keywords)
   speciescodes.csv     # Generated IDs
-  end_diet.txt         # URL template
 outputs/               # Generated reports
 ```
 
